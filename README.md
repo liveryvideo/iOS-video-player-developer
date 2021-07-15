@@ -1,4 +1,4 @@
-# iOS-Video-Player-Developer
+# iOS-video-player-developer
 Make a pull request on our team
 
 Developers wanted - Amsterdam - full-time
