@@ -1,5 +1,5 @@
 # iOS-video-player-developer
-Make a pull request on our team
+Create a pull request on our team
 
 Developers wanted - Amsterdam - full-time
 
@@ -26,6 +26,6 @@ If you’re looking to make an impact, this role is for you: your job is to help
 - Experience with hybrid mobile app development (Cordova and/or Phonegap) is an asset
 
 
-Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as making a pull request :-)
+Contact us and send your resume to jobs@liveryvideo.com Don't worry, it is as easy as creating a pull request :-)
 
 Direct applications only; No agencies please.
